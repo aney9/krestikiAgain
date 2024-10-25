@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Krestiki" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/gray</item>
+        <item name="android:textColorPrimary">@color/white</item>
+    </style>
+
+    <style name="ImgBtn" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="tint">@color/white</item>
+    </style>
+</resources>
